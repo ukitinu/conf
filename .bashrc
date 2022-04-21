@@ -1,5 +1,5 @@
 #
-# add to bottom of file
+# add to bottom of default file
 #
 
 ################
