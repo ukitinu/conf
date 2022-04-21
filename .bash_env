@@ -1,0 +1,6 @@
+### Custom environment variables ###
+
+export SUDO_EDITOR=/usr/bin/vim
+export EDITOR=/usr/bin/vim
+
+export HISTTIMEFORMAT="%d/%m/%y %T "
