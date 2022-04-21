@@ -1,5 +1,6 @@
 # conf
 Collection of dotfiles and notes.
+Nothing of note, really.
 
 The content of [.bashrc](./.bashrc) should be appended at the end of the default file, it is not a replacement.
 
