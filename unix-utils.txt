@@ -1,0 +1,5 @@
+jq          # JSON manipulation
+net-tools   # netstat and other useful network CLI
+vnstat      # simple GUI showing network stats
+tree        # shows dir contents as tree (recursively)
+ncdu        # kind of like du/df but with a simple GUI
