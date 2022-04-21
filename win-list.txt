@@ -1,0 +1,37 @@
+Intellij IDEA
+PyCharm
+
+Everything (voidtools)  # file/folder search programme, kind of a 'locate' for Windows
+
+Meld                    # folder compare side-by-side
+
+Notepad++
+> Compare
+> JSON Viewer
+> MarkdownViewer++
+> Mime tools
+> Npp Converter
+> NppExport
+
+KeePassXC               # I prefer BitWarden, but as this is completely local it has less chances of being blocked by IT
+
+Firefox
+> KeePassXC-Browser
+> old reddit redirect
+> uBlock Origin
+
+Postman
+
+7zip
+
+Signal Desktop
+
+SumatraPDF
+
+Git for Windows
+
+MobaXTerm
+
+paint.NET
+
+VLC
